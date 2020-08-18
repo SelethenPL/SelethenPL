@@ -1,4 +1,4 @@
-### Hello there, I'm Łukasz! 👋
+## Hello there, I'm Łukasz! 👋
 
 <!--
 **SelethenPL/SelethenPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I’m still a IT student at Poznan University of Technology. Currently I'm learning to work with Angular 10 and TypeScript! 🌱
 
-### Connect with me:
+### Wanna contact me? Feel free to stop by <img alt="Stop" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/adblock.svg" />:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
