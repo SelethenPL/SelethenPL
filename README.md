@@ -2,28 +2,17 @@
 
 <!--
 **SelethenPL/SelethenPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-### I’m still a IT student at Poznan University of Technology. Currently I'm learning to work with Angular 10 and TypeScript! 🌱
+### 🌱 I’m still a IT student at Poznan University of Technology. Currently I'm learning to work with Angular 10 and TypeScript!
 
-### Wanna contact me? Feel free to stop by 📫:
+### 📫 Wanna contact me? Feel free to stop by:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Things I am (most) familiar with:
+### :point_down: Things I am (most) familiar with:
 
 <img align="left" alt=".NET" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/dot-net.svg" />
 <img align="left" alt="Java" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" />
@@ -37,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Fun fact for today: 
+### ⚡ Fun fact for today: 
 The bright pink color of flamingos comes from beta carotene, a red-orange pigment that’s found in high numbers within the algae, larvae, and brine shrimp that flamingos eat in their wetland environment.
 
 [linkedin]: https://www.linkedin.com/in/%C5%82ukasz-duhr-5856a41a2/
