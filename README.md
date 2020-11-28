@@ -18,6 +18,7 @@
 <img align="left" alt="Java" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" />
 <img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
 <!-- img align="left" alt="Angular" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/angularjs.svg" -->
+<!-- img align="left" alt="TypeScript" width="60px" src="https://simpleicons.org/icons/typescript.svg" -->
 <img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mysql.svg" />
 <img align="left" alt="Git" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />
 
@@ -27,6 +28,6 @@
 ---
 
 ### ⚡ Fun fact for today: 
-The bright pink color of flamingos comes from beta carotene, a red-orange pigment that’s found in high numbers within the algae, larvae, and brine shrimp that flamingos eat in their wetland environment.
+In Japan, the traffic light colors are: red, yellow and blue.
 
 [linkedin]: https://www.linkedin.com/in/%C5%82ukasz-duhr-5856a41a2/
