@@ -9,6 +9,7 @@
 ### 📫 Wanna contact me? Feel free to stop by:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="email" width="40px" src="https://simpleicons.org/icons/mail-dot-ru.svg" />][email]
 
 <br />
 
@@ -19,6 +20,7 @@
 <img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
 <!-- img align="left" alt="Angular" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/angularjs.svg" -->
 <!-- img align="left" alt="TypeScript" width="60px" src="https://simpleicons.org/icons/typescript.svg" -->
+<!-- img align="left" alt="Python" width="60px" src="https://simpleicons.org/icons/python.svg" -->
 <img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mysql.svg" />
 <img align="left" alt="Git" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />
 
@@ -31,3 +33,4 @@
 In Japan, the traffic light colors are: red, yellow and blue.
 
 [linkedin]: https://www.linkedin.com/in/%C5%82ukasz-duhr-5856a41a2/
+[email]: mailto:lukasz.duhr@gmail.com
