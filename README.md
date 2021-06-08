@@ -4,7 +4,7 @@
 **SelethenPL/SelethenPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🌱 I’m still a IT student at Poznan University of Technology. Currently I'm learning to work with Angular 10 and TypeScript!
+### 🌱 I’m a IT student at Poznan University of Technology. Currently I'm doing Master's degree in Computer Science (spec. Artificial Intelligence), and deepen my knowledge of Python and broadly understood AI.
 
 ### 📫 Wanna contact me? Feel free to stop by:
 
@@ -13,14 +13,14 @@
 
 <br />
 
-### :point_down: Things I am (most) familiar with:
+### :point_down: Things I worked with the most:
 
 <img align="left" alt=".NET" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/dot-net.svg" />
 <img align="left" alt="Java" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/java.svg" />
-<img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />
+<!-- img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" -->
 <!-- img align="left" alt="Angular" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/angularjs.svg" -->
 <!-- img align="left" alt="TypeScript" width="60px" src="https://simpleicons.org/icons/typescript.svg" -->
-<!-- img align="left" alt="Python" width="60px" src="https://simpleicons.org/icons/python.svg" -->
+<img align="left" alt="Python" width="60px" src="https://simpleicons.org/icons/python.svg" />
 <img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mysql.svg" />
 <img align="left" alt="Git" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />
 
@@ -30,7 +30,7 @@
 ---
 
 ### ⚡ Fun fact for today: 
-In Japan, the traffic light colors are: red, yellow and blue.
+In Japan, it’s good manner to slurp your noodles.
 
 [linkedin]: https://www.linkedin.com/in/%C5%82ukasz-duhr-5856a41a2/
 [email]: mailto:lukasz.duhr@gmail.com
